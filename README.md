@@ -2,6 +2,10 @@
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+## About this
+
+Hi! This is the template that I used and modified for my website, feel free to dig in to this :)
+
 ## Preview
 
 [![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
